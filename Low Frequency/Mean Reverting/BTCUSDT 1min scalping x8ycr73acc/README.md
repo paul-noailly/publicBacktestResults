@@ -2,7 +2,7 @@
 
 ## Description
 
-1min scalping strategy using custom indicators.
+1min mean reverting strategy using custom indicators.
 
 
 
